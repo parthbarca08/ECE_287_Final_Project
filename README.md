@@ -54,7 +54,8 @@ Challenges/Conclusion:
 	In conclusion, this project was a very interesting project to work on. All group members enjoyed spending time on the project and were willing to spend time on it. This document serves as both a summary of our project and a guide of to play this game. We have also included a video link below to show the game and the peripherals used.
 	
 Video of Project:
-[![Link to Project Video](https://image.freepik.com/free-icon/button-play-radio-or-video_318-30277.jpg)](https://drive.google.com/a/miamioh.edu/file/d/0B3hO6R9tM3KaaUJpWUJTLWY2bHc/view?usp=sharing)
+
+[![Link to Project Video](http://www.iconsdb.com/icons/preview/gray/video-play-xxl.png)](https://drive.google.com/a/miamioh.edu/file/d/0B3hO6R9tM3KaaUJpWUJTLWY2bHc/view?usp=sharing)
 
 Instructions to Playing the Game:
 -For movement
