@@ -55,7 +55,7 @@ Challenges/Conclusion:
 	
 Video of Project: (click play button below)
 
-[![Link to Project Video](http://www.iconsdb.com/icons/preview/gray/video-play-xxl.png)](https://drive.google.com/a/miamioh.edu/file/d/0B3hO6R9tM3KaaUJpWUJTLWY2bHc/view?usp=sharing)
+[![Link to Project Video](http://www.iconsdb.com/icons/preview/gray/video-play-xxl.png)](https://youtu.be/kDbHcJRV_Cg)
 
 Instructions to Playing the Game:
 -For movement
