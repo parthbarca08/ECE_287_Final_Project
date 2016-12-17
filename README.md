@@ -34,7 +34,7 @@ VGA was one of the peripherals that require more time and effort to understand. 
 
 
 
-![Keyboard Bits](https://drive.google.com/open?id=0B3hO6R9tM3KaSHVRZmVLZE10TVk)
+![Keyboard Bits](https://cdn.instructables.com/ORIG/F66/QZKD/IHI3N2NP/F66QZKDIHI3N2NP.jpg)
 
 
 
