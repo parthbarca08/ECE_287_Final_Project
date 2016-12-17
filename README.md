@@ -53,7 +53,7 @@ Challenges/Conclusion:
 	Finally our most frustrating challenge was the keyboard. Although we eventually got the keyboard to work with different keyboard modules, the keyboard would freeze and not allow any more input values to go through. Total to get the keyboard to work we must have spent  15-20 hours alone.
 	In conclusion, this project was a very interesting project to work on. All group members enjoyed spending time on the project and were willing to spend time on it. This document serves as both a summary of our project and a guide of to play this game. We have also included a video link below to show the game and the peripherals used.
 	
-Video of Project:
+Video of Project: (click play button below)
 
 [![Link to Project Video](http://www.iconsdb.com/icons/preview/gray/video-play-xxl.png)](https://drive.google.com/a/miamioh.edu/file/d/0B3hO6R9tM3KaaUJpWUJTLWY2bHc/view?usp=sharing)
 
