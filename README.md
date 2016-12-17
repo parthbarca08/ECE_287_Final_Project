@@ -40,7 +40,7 @@ VGA:
 
 
 Keyboard:
-	We obtained the keyboard module from Isaac Steiger, who subsequently obtained it from Funkheld on : http://www.alteraforum.com/forum/showthread.php?t=46549
+	We obtained the keyboard module from Isaac Steiger @steigeia, who subsequently obtained it from Funkheld on : http://www.alteraforum.com/forum/showthread.php?t=46549
 
 	
 
